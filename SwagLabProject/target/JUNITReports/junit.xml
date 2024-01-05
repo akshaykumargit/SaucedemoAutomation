@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="6.278" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="feature to test login functionality" name="Check if user is able to add item to cart" time="6.23">
+<system-out><![CDATA[
+Given user is on login page.................................................passed
+When user enters username...................................................passed
+And click on login button...................................................passed
+Then user is navigated to home page.........................................passed
+And user adds an item into cart.............................................passed
+And user clicks on checkout in cart.........................................passed
+And user enters delivery details............................................passed
+And user completes the order successfully...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
